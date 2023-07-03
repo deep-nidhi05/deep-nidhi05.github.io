@@ -1,0 +1,70 @@
+.nav-color{
+    background-color: rgb(212, 223, 232)!important;
+}
+
+nav h1{
+    margin: 0.75;
+    float: left;
+}
+
+nav a{
+    float: right;
+    margin: 0.75;
+    text-decoration: none;
+    color: blueviolet;
+}
+
+.active{
+    color: rgb(13, 13, 136);
+}
+
+.hero-txt-color{
+    color: rgb(181, 34, 222)!important;
+}
+
+.hero-sub-text{
+    color: rgb(72, 72, 197);
+}
+
+.footer-links{
+    text-decoration: none;
+    color: black;
+}
+
+.logo-anim{
+    transition: all 1s;
+}
+
+.logo-anim:hover{
+     transform: rotate(-0.01turn)scale(1.25);
+     
+}
+
+.brand-anim{
+    transition: all 1s;
+}
+
+.brand-anim:hover{
+     transform: scale(1.25);
+     
+}
+
+.link-anim{
+    transition: all 1s;
+}
+
+.link-anim:hover{
+     transform: scale(1.5);
+     
+     
+}
+
+.img-anim{
+    transition: all 1s;
+}
+
+.img-anim:hover{
+     transform: scale(1.05);
+     
+}
+
